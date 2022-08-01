@@ -42,3 +42,15 @@ Se utilizan * + -
 
 con *. al inicio genera una lista numeraria
 
+*. uno
+
+*. dos
+
+
+
+
+Definiciones
+
+Definicion 1
+
+: Definicion 1
