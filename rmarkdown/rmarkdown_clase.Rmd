@@ -12,3 +12,29 @@ knitr::opts_chunk$set(echo = TRUE)
 # Título nivel 1
 ## Título nivel 2
 ### Título nivel 3
+
+
+citas
+
+
+> 1. esta es una cita
+
+> cita principal
+> > esto es una cita dentro de una cita
+
+
+Para hacer sangrias se utiliza "|" antes del texto
+
+| esto es un ejemplo
+| continuamos con el ejemplo
+
+
+Listas
+
+Se utilizan * + -
+
+* Nombre
++ elemento1
++ elemento2
+- subelemento1
+- subelemento2
