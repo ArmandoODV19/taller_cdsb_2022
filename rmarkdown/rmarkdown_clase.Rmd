@@ -74,3 +74,15 @@ Definicion 1
 
 * para que tanto brinco estando el piso tan parejo
 
+
+las fracciones se colocan entre $
+
+"$ fracion $"
+
+$z = 1/4$
+
+
+
+# Para hacer un cv
+
+install.packages('vitae')
