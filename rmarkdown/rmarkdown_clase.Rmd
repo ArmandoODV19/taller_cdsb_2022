@@ -38,3 +38,7 @@ Se utilizan * + -
 + elemento2
 - subelemento1
 - subelemento2
+
+
+con *. al inicio genera una lista numeraria
+
