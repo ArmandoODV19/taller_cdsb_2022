@@ -89,6 +89,33 @@ self_contained: true
 se coloca en el YAML despues de xaringan::moon_reader:
 
 para generar una carpeta con toda la informacion (imagenes, tablas, etc) que ocupa la presentacion 
+
+---
+# publicando la presentacion
+
+la presentacion se puede hacer en link de pagina
+
+1. nos vamos al repositorio
+
+2. settings
+
+3. pages (columna izquierda)
+
+4. **Branch** se cambia a main
+
+5. se coloca el link de la pagina armandoodv19.github.io
+
+6. se coloca el nombre del repo, el path de la presentacion dentro del repo y el nombre de la presentacion   https://armandoodv19.github.io/taller_cdsb_2022/rmarkdown/presentacion_prueba.html
+
+7. la configuracion se realiza por repositorio
+
+---
+
+# Generando el pdf
+
+se renderiza el archivo .html renderizado
+
+pagedown::chrome_print("presentacion_prueba.html")
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
