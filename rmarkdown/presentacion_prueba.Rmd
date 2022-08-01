@@ -6,6 +6,7 @@ institute: "RStudio, PBC"
 date: "2016/12/12 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
+    self_contained: true
     lib_dir: libs
     nature:
       highlightStyle: github
@@ -56,3 +57,12 @@ Agregando code
 2 + 2
 ```
 
+---
+
+# self_contained
+
+self_contained: true
+
+se coloca en el YAML despues de xaringan::moon_reader:
+
+para generar una carpeta con toda la informacion (imagenes, tablas, etc) que ocupa la presentacion 
