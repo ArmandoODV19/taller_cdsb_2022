@@ -20,13 +20,24 @@ citas
 > 1. esta es una cita
 
 > cita principal
+
 > > esto es una cita dentro de una cita
 
 
 Para hacer sangrias se utiliza "|" antes del texto
 
+
 | esto es un ejemplo
+
 | continuamos con el ejemplo
+
+
+
+| Dijo el loco, y con noble melancolía
+| por las breñas del monte siguió trepando,
+| y al perderse en las sombras, aún repetía:
+| «¡Hay que vivir sembrando! ¡Siempre sembrando!...»
+|    Rafel Blanco Belmonte
 
 
 Listas
@@ -54,3 +65,12 @@ Definiciones
 Definicion 1
 
 : Definicion 1
+
+
+
+### Refranes
+
+* Candil de calle oscuridad en casa
+
+* para que tanto brinco estando el piso tan parejo
+
