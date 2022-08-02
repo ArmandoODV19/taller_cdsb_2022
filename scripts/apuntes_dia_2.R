@@ -90,3 +90,8 @@ use_bioc_github_action()
 # head htn-depth.txt
 
 # para correr cada elemnto max en result se utiliza less y el nombre del archivo
+
+
+
+# crear carpeta que se llame concoct y copiar los archivos
+# cp -r /home/mirna/04.Concoct/results/bins-concot /home/user05/concoct
