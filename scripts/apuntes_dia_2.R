@@ -1,5 +1,6 @@
 # apuntes dia 2
 
+# como convertir el flujo de trabajo en una paqueteria
 
 BiocManager::install("biocthis")
 
