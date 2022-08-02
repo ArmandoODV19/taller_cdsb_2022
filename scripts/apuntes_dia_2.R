@@ -67,3 +67,15 @@ use_bioc_github_action()
 
 # correr comandos de 7.5.1 maxbin
 
+# despues
+
+# conda env list
+
+# activando ambiente
+#
+# conda activate maxbin_env
+
+# run_MaxBin.pl -contig data/htn.fasta -out results/maxbin -abund data/htn-depth.txt -max_iteration 2
+
+
+
