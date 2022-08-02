@@ -56,3 +56,5 @@ use_bioc_github_action()
 # esto se corre en la terminal
 
 
+# binning -- es el proceso de reconstruccón de genomas
+
