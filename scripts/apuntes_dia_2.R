@@ -82,3 +82,11 @@ use_bioc_github_action()
 
 
 
+# evaluando data de 02.maxBin
+
+# cd data/
+
+# grep -c ">" htn.fasta    profundidad
+# head htn-depth.txt
+
+# para correr cada elemnto max en result se utiliza less y el nombre del archivo
