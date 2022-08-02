@@ -35,3 +35,24 @@ use_bioc_github_action()
 # conda search htop
 # htop es el nombre del paquete
 
+
+
+####
+####
+
+
+# ensamble de lecturas
+
+# pipeline
+
+# control de calidad
+# ensamble
+# bbmap
+# binning
+# mataBat, maxbin, concobt
+# das tool --> interferencia taxonomica o interferencia metabolica
+
+
+# esto se corre en la terminal
+
+
