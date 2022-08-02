@@ -75,7 +75,10 @@ use_bioc_github_action()
 #
 # conda activate maxbin_env
 
-# run_MaxBin.pl -contig data/htn.fasta -out results/maxbin -abund data/htn-depth.txt -max_iteration 2
+# nohup  run_MaxBin.pl -contig data/htn.fasta -out results/maxbin -abund data/htn-depth.txt -max_iteration 2 $
+# nohup y $ se utilizan para que la informacion no sature la terminal
+
+
 
 
 
