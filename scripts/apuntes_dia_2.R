@@ -53,8 +53,17 @@ use_bioc_github_action()
 # das tool --> interferencia taxonomica o interferencia metabolica
 
 
-# esto se corre en la terminal
-
 
 # binning -- es el proceso de reconstruccón de genomas
+
+# seccion 7.5 binnin en libro
+# esto se corre en la terminal
+
+# ingresar al servidor con los datos del correo
+# s
+# mkdir 01.test   nueva carpeta
+# cd 01.test
+
+
+# correr comandos de 7.5.1 maxbin
 
