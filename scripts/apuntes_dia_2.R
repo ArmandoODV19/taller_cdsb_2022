@@ -24,3 +24,14 @@ use_bioc_github_action()
 
 # conda install PACKAGE
 
+
+# otros canaels de descarga
+
+# Bioconda
+# Search::Anaconda.org
+
+# buscar un paquete
+
+# conda search htop
+# htop es el nombre del paquete
+
