@@ -95,3 +95,14 @@ use_bioc_github_action()
 
 # crear carpeta que se llame concoct y copiar los archivos
 # cp -r /home/mirna/04.Concoct/results/bins-concot /home/user05/concoct
+
+
+
+
+
+
+
+
+### dia 3
+
+
