@@ -105,4 +105,7 @@ use_bioc_github_action()
 
 ### dia 3
 
+# copiar bins
+
+# cp -r /home/mirna/07.Bins/Genoma//01.Bins_named/ /home/user05/
 
