@@ -12,3 +12,8 @@ available::available("pkgMetagenomica")
 # hacer nuevo proyecto
 
 usethis::create_package("pkgMetagenomica")
+
+
+# estructura de biocthis
+
+biocthis::use_bioc_pkg_templates()
