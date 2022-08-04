@@ -33,3 +33,8 @@ usethis::use_github() #script dos
 
 # vinculando el paquete a github
 usethis::use_github() # script dos
+
+
+# usar esqueleto de bioconductor
+
+biocthis::use_bioc_description() # modifica DESCRIPTION ; script 3
