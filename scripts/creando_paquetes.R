@@ -61,3 +61,6 @@ biocthis::use_bioc_citation()
 # generar un script por cada funcion
 # este argumento genera un script para la funcion
 usethis::use_r("subset_heatmap")
+
+# identar funciones
+# ctrl + i
