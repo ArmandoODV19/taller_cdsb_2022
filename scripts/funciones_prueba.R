@@ -32,3 +32,19 @@ subset_heatmap <- function(x, especies = NULL, genes = NULL) {
 subset_heatmap(expresion_genes,
                especies = c("especie_a", "especie_b","especie_c"),
                genes = c("gene_d","gene_e","gene_f"))
+
+
+
+subset_heatmap_filter <- function(x, especies = NULL, genes = NULL) {
+  # subset matrix
+  x_subset <- x[genes,especies]
+
+  # plot heatmap
+  ComplexHeatmap::Heatmap(x_subset,
+                          cluster_columns = FALSE,
+                          heatmap_legend_param = list(title = "log2"))
+}
+
+x <- as.vector(x)
+x
+x[x > -1 & x < 1]
