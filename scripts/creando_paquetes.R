@@ -38,3 +38,9 @@ usethis::use_github() # script dos
 # usar esqueleto de bioconductor
 
 biocthis::use_bioc_description() # modifica DESCRIPTION ; script 3
+
+
+# crear README estilo bioconductor
+
+biocthis::use_bioc_readme_rmd() # script 3
+devtools::build_readme() # script 3
