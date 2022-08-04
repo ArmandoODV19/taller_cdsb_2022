@@ -48,4 +48,11 @@ devtools::build_readme() # script 3
 
 # crear archivo news
 
-biocthis::use_bioc_news_md()
+biocthis::use_bioc_news_md() # script 3
+
+# ayuda para que la gente contribuya
+biocthis::use_bioc_coc()  # script 3
+usethis::use_tidy_contributing()
+biocthis::use_bioc_support()
+biocthis::use_bioc_issue_template()
+biocthis::use_bioc_citation()
