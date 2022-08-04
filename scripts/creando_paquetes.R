@@ -67,3 +67,13 @@ usethis::use_r("subset_heatmap")
 
 
 ### Documentacion
+
+# se realiza en el script de la función
+# se sombre la funcion
+# se da click en la varita >> insert roxygen skeleton
+
+# una vez modificado el script de la funcion se corre
+devtools::document()
+
+# posteriormente se da click en build en la parte superior derecha
+# click en install and restart
