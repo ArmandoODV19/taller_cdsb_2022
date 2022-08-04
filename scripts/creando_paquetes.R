@@ -77,3 +77,10 @@ devtools::document()
 
 # posteriormente se da click en build en la parte superior derecha
 # click en install and restart
+
+
+### test that
+
+usethis::use_testthat()
+usethis::use_test("subset_heatmap")
+usethis::use_coverage()
