@@ -25,3 +25,8 @@ biocthis::use_bioc_pkg_templates() # esto corre en la consola, no se abre script
 # pedir que git ignore el archivo .Rproj
 
 usethis::use_git_ignore("*.Rproj") # esta linea se encuentra en el script 2
+
+
+# crear repositorio
+
+usethis::use_github() #script dos
