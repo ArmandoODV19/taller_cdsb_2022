@@ -56,3 +56,8 @@ usethis::use_tidy_contributing()
 biocthis::use_bioc_support()
 biocthis::use_bioc_issue_template()
 biocthis::use_bioc_citation()
+
+### creando funciones
+# generar un script por cada funcion
+# este argumento genera un script para la funcion
+usethis::use_r("subset_heatmap")
