@@ -64,3 +64,6 @@ usethis::use_r("subset_heatmap")
 
 # identar funciones
 # ctrl + i
+
+
+### Documentacion
