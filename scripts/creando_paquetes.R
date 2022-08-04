@@ -30,3 +30,6 @@ usethis::use_git_ignore("*.Rproj") # esta linea se encuentra en el script 2
 # crear repositorio
 
 usethis::use_github() #script dos
+
+# vinculando el paquete a github
+usethis::use_github()
