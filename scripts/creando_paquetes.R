@@ -84,3 +84,8 @@ devtools::document()
 usethis::use_testthat()
 usethis::use_test("subset_heatmap")
 usethis::use_coverage()
+
+
+# creando una vignette
+
+biocthis::use_bioc_vignette("Introduccion_a_pkgMetagenomica")
